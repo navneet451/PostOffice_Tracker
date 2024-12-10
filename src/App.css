@@ -60,7 +60,7 @@ html, body {
   border-radius: 8px;
   padding: 10px;
   margin: 8px;
-  min-width: 500px;
+  min-width: 50vw;
   color: white;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
